@@ -1,5 +1,3 @@
-
-
 import UIKit
 
 class EventsPageVC: UIViewController ,UITableViewDelegate,UITableViewDataSource,EventResponseNotifier{

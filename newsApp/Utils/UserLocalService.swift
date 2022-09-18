@@ -1,10 +1,3 @@
-//
-//  UserLocalService.swift
-//  newsApp
-//
-//  Created by malek belayeb on 30/12/2021.
-//
-
 import Foundation
 import CoreData
 import UIKit

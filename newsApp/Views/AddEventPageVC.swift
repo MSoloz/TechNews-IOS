@@ -1,5 +1,3 @@
-
-
 import UIKit
 
 class AddEventPageVC: UIViewController,UIImagePickerControllerDelegate,UINavigationControllerDelegate, AddEventResponseNotifier,UITextFieldDelegate{

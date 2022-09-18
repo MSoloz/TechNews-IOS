@@ -1,9 +1,3 @@
-//
-//  WebServiceProvider.swift
-//  newsApp
-//
-//
-
 import Alamofire
 import Foundation
 import AlamofireImage

@@ -1,9 +1,3 @@
-//
-//  Utils.swift
-//  TechNewsApp
-//
-//
-
 import Foundation
 
 class Utils
